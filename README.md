@@ -13,7 +13,7 @@
 В дочерних классах AKran и Aklapan  foo() возвращаeт имтацию своего состояния в целочисленном виде - 3 или 4.
       
 #### Ссылка на исходный код
- (код программы)[https://github.com/SvetlanaBoichenko/lessons/blob/main/Test2.java]
+ (код программы)[https://github.com/SvetlanaBoichenko/lessons/blob/main/test2.java]
 
 #### Результат работы
 ![image](https://github.com/SvetlanaBoichenko/MyProject1/assets/160069590/02690eb8-c572-42d3-a66c-404e2c2996e0)
